@@ -4,5 +4,5 @@
   xsi:schemaLocation="http://www.springframework.org/schema/beans
        https://www.springframework.org/schema/beans/spring-beans.xsd"
 >
-  <bean id="airtel" class="org.tomspencerlondon.Airtel"></bean>
+  <bean id="goodbye" class="org.tomspencerlondon.Goodbye"></bean>
 </beans>
